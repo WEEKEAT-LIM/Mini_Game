@@ -1,2 +1,2 @@
-# Mini_Project
-Some mini project with c++
+# Mini_Projects
+Some mini projects with c++
